@@ -1,0 +1,5 @@
+Make sure all files are in the same folder
+
+missing "UnityPlyer.dll"
+that can be found in the .zip file
+- Alex
